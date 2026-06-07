@@ -1,0 +1,5 @@
+# Herramientas de desarrollo / Stake Engine — no necesarias en producción
+stake_board_math.py
+lookup_table.json
+__pycache__/
+*.pyc
